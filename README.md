@@ -1,16 +1,17 @@
 # Project-Ideas
 ReadMe that contains project Ideas and pre-planning for the projects
 
-### Job Tracker with reminders
+## Job Tracker with reminders
+  ### Description
   - MVC ASP .net applicaiton
   - Tracks current projects, jobs and requirements for work.
-    ## Feature Ideas
-      Needs
+    ### Features
+     ### Required Features
        - Ticket system style job tracking
        - Reminder notifications for tasks
        - Time for task tracking
         
-       Nice to haves
+    ### Nice to have Features
       - Export to CORE invoice database
       - Central notes section for each job task
       - general notes for the week per user
