@@ -5,12 +5,12 @@ ReadMe that contains project Ideas and pre-planning for the projects
   - MVC ASP .net applicaiton
   - Tracks current projects, jobs and requirements for work.
     ## Feature Ideas
-      # Needs
+      Needs
        - Ticket system style job tracking
        - Reminder notifications for tasks
        - Time for task tracking
         
-      # Nice to haves
+       Nice to haves
       - Export to CORE invoice database
       - Central notes section for each job task
       - general notes for the week per user
