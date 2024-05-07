@@ -25,16 +25,16 @@ ReadMe that contains project Ideas and pre-planning for the projects
           Example: Arrive on site, state Start Tracking for "Client Name".  Tracks total time at client
                   Start Tracking 'task name', Starts tim tracking for that task. (rounds up to the nearest fifteen minute interval)
 
-### Piano project 
+## Piano project 
   See [Piano Reference Repository](https://github.com/CozartKevin/Piano_Reference_Webpage-Scales) for current Project status.
 
-### Learn JUCE Framework
+## Learn JUCE Framework
   See [JUCE Tutorials Repository](https://github.com/CozartKevin/JUCE-Tutorials) for current Project status.
 
-### Learn DSP
+## Learn DSP
   Follow Advised course from ChatGPT to accomplish
   
-### Learn Music Theory
+## Learn Music Theory
   Take Coursera Course from University of Edinburgh named Fundamentals of Music Theory
 
 
